@@ -1,0 +1,84 @@
+# Query: card__image
+# ContextLines: 1
+
+Результаты: 19 - Файлы 4
+
+555.html:
+  202  					<div class="card__container card__container--closed">
+  203: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice" ">
+  204  							<defs>
+
+  288  					<div class="card__container card__container--closed">
+  289: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  290  							<defs>
+
+  331  					<div class="card__container card__container--closed">
+  332: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  333  							<defs>
+
+  380  					<div class="card__container card__container--closed">
+  381: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  382  							<defs>
+
+  432  					<div class="card__container card__container--closed">
+  433: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  434  							<defs>
+
+  475  					<div class="card__container card__container--closed">
+  476: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  477  							<defs>
+
+  524  					<div class="card__container card__container--closed">
+  525: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  526  							<defs>
+
+  576  					<div class="card__container card__container--closed">
+  577: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  578  							<defs>
+
+work.html:
+  206  					<div class="card__container card__container--closed">
+  207: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  208  							<defs>
+
+  249  					<div class="card__container card__container--closed">
+  250: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  251  							<defs>
+
+  298  					<div class="card__container card__container--closed">
+  299: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  300  							<defs>
+
+  350  					<div class="card__container card__container--closed">
+  351: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  352  							<defs>
+
+  393  					<div class="card__container card__container--closed">
+  394: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  395  							<defs>
+
+  442  					<div class="card__container card__container--closed">
+  443: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  444  							<defs>
+
+  494  					<div class="card__container card__container--closed">
+  495: 						<svg class="card__image" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 500" preserveAspectRatio="xMidYMid slice">
+  496  							<defs>
+
+css\layout.css:
+  2279  
+  2280: .card__image {
+  2281  	position: relative;
+
+  2290  
+  2291: .card__container--closed .card__image {
+  2292  	cursor: pointer;
+
+  2393  	}
+  2394: 	.card__image {
+  2395  		max-height: 360px;
+
+js\work-cards.js:
+  13      card: '.card',
+  14:     cardImage: '.card__image',
+  15      cardClose: '.card__btn-close',

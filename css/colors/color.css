@@ -1,8 +1,7 @@
 
 
 #royal_preloader.text .loader{
-	color:#f25e08;
-}
+color: #b60000;}
 .cd-vertical-nav a,
 .button--moema:hover,
 #ajax-form button:hover,
@@ -26,13 +25,12 @@ a.blog-link,
 .blog-box-1 .date p em,
 .link-recents a:hover,
 .project-details p a:hover{
-	color:#f25e08;
-}
+color: #b60000;}
 #ajax-form textarea:focus,
 #ajax-form input:focus,
 #ajax-form textarea:active,
 #ajax-form input:active {	
-	border-bottom:1px solid #f25e08;
+	border-bottom:1px solid #b60000;
 }
 .tags-block a:hover,
 .tags-block a.autor-link:hover,
@@ -40,20 +38,16 @@ a.blog-link,
 .post-sidebar input:focus,
 .link-tag a:hover,
 .block:hover{
-	background: #f25e08;
+	background: #b60000;
 }
 .post-sidebar input:-ms-input-placeholder  {
-	color:#f25e08;
-}
+color: #b60000;}
 .post-sidebar input::-moz-placeholder  {
-	color:#f25e08;
-}
+color: #b60000;}
 .post-sidebar input:-moz-placeholder  {
-	color:#f25e08;
-}
+color: #b60000;}
 .post-sidebar input::-webkit-input-placeholder  {
-	color:#f25e08;
-}
+color: #b60000;}
 ::selection {
 	background: #f25e08;
 	}

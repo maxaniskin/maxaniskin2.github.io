@@ -49,28 +49,34 @@
 
 /* #Basic Styles
 ================================================== */
-body {
-	background: #fff;
-	font-family: 'Inconsolata';
+body {background-image:url(../images/7.jpg);background-repeat:no-repeat;background-size:cover;
+background-attachment:fixed;top: 0;
+	font-family: 'Pelagy';
 	font-weight:400;
 	font-size: 15px;
 	line-height:23px;
 	letter-spacing:1px;
-	color:#747474;
+	color:rgb(255, 255, 255);
 	overflow-x:hidden;
 	-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
  }
+
+@font-face {
+	font-family: 'Pelagy';
+	src: url('../fonts/Pelagy.ttf');
+	
+	font-weight: normal;
+	font-style: normal;
+}
 /* #Typography
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
-		color: #414141;
-		font-family: 'GarnataRegular';
-		text-align:center;
+	color: #b60000;font-family: 'Pelagy';		text-align:center;
 	}
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 50px; line-height:50px;text-transform:uppercase; }
-	h2 { font-size: 42px; line-height:42px;text-transform:uppercase;}
+	h2 { font-size: 42px; line-height:42px;text-transform:uppercase;color:#fff}
 	h3 { font-size: 38px; line-height: 38px;text-transform:uppercase;}
 	h4 { font-size: 34px; line-height: 34px;text-transform:uppercase;}
 	h5 { font-size: 28px; line-height: 28px;text-transform:uppercase;}
@@ -78,7 +84,7 @@ body {
 
 
 	p {  }
-	p img { margin: 0; }
+	p { margin:1rem 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
 	em { font-style: italic; }
