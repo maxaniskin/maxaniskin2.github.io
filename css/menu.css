@@ -38,7 +38,7 @@ position:absolute ;z-index: 999;	transition: 0.3s opacity;
 	position: fixed;
 	top: 0px;
 	width: 100%;
-	z-index: 1;
+	z-index: 1;color: red;
 }
 
 ul.main-nav__fallback {
@@ -50,7 +50,7 @@ ul.main-nav__fallback {
 
 ul.main-nav__fallback a {
 	font-size: 5vw;
-	color: #cf5500;
+	color: #cf1800;
 	text-decoration: none;
 }
 

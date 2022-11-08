@@ -16,7 +16,7 @@ label {
 }
 
 label:focus {
-	border: 2px solid orange;
+	border: 2px solid rgb(167, 6, 11);
 }
 
 #main-nav-toggle {

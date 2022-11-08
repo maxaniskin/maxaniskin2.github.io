@@ -1713,16 +1713,12 @@ video#video-background {
 }
 .blog-box-1{
 	position:relative;
-	float:left;
-	width:calc(25% - 50px);
+text-align: center;	width:100%;
 	display:block;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	margin-top:25px;
-	margin-right:24px;
-	margin-bottom:25px;
-	margin-left:25px;
+	margin:auto;
 	overflow:hidden;
 	padding:30px;
 	-webkit-transform: translate3d(1px,0,0);
